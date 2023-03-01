@@ -58,7 +58,7 @@ h2.intro{
 }
 section{
     border: 2px solid transparent;
-    border-radius: 20px;
+    border-radius: 15px;
 }
 
 section.experiencia{
@@ -142,6 +142,7 @@ section.experiencia{
     background-image: url(/assets/img/carbon_fibre.png);
     text-align: center;
     font-weight: bold;
+    color: #FFFFFF;
 }
 
 
